@@ -54,12 +54,13 @@ Estou sempre explorando novas tecnologias e buscando evoluir como desenvolvedor.
 
 ---
 
-<h2 align="center">🐍 Minhas Contribuições</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Souzathos/Souzathos/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Souzathos/Souzathos/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Souzathos/Souzathos/output/pacman-contribution-graph.svg">
+</picture>
 
-<p align="center">
-  <img src="https://github.com/Souzathos/Souzathos/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
+###
 
 ---
 
