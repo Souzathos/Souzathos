@@ -61,7 +61,7 @@ Busco constantemente aprender novas tecnologias e aprimorar minhas habilidades p
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/athos-souza-020a69343" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Em%20breve-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Athos%Souza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
