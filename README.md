@@ -65,7 +65,8 @@ Estou sempre explorando novas tecnologias e buscando evoluir como desenvolvedor.
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="350" alt="Code animation" />
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" alt="Code animation" />
+
 </p>
 
 <p align="center"><strong>✨ Obrigado por visitar meu perfil! ✨</strong></p>
