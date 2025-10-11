@@ -47,7 +47,7 @@ Busco constantemente aprender novas tecnologias e aprimorar minhas habilidades p
 ---
 
 💡 **Outras Habilidades**  
-📘 Inglês Intermediário  
+📘 Inglês fluente 
 ⚙️ Trabalho em equipe e comunicação  
 🚀 Interesse por tecnologias modernas e boas práticas de código  
 🔍 Sempre buscando aprender e evoluir  
@@ -60,7 +60,7 @@ Busco constantemente aprender novas tecnologias e aprimorar minhas habilidades p
     <img src="https://img.shields.io/badge/GitHub-AthosSouza-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="#" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/athos-souza-020a69343" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Em%20breve-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
