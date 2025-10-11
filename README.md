@@ -54,7 +54,9 @@ Estou sempre explorando novas tecnologias e buscando evoluir como desenvolvedor.
 
 ---
 
-<img src="https://raw.githubusercontent.com/Souzathos/Souzathos/output/snake.svg" alt="Snake animation" />
+[<img src="https://raw.githubusercontent.com/Souzathos/Souzathos/output/snake.svg" alt="Snake animation" />](https://github.com/Souzathos/Souzathos/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin?username=Souzathos&repo=Souzathos&theme=react)](https://github.com/Souzathos/Souzathos)
 
 ###
 
