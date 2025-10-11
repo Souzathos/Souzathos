@@ -31,6 +31,17 @@ Estou sempre explorando novas tecnologias e buscando evoluir como desenvolvedor.
 
 ---
 
+###
+
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 🧠 **Habilidades em Programação**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript" />
@@ -52,13 +63,26 @@ Estou sempre explorando novas tecnologias e buscando evoluir como desenvolvedor.
 ---
 
 📫 **Como me Encontrar**
+
+ 
+  
+  
+  
+  
+  
 <p align="center">
   <a href="https://github.com/Souzathos" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-Souzathos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.instagram.com/souzathos_" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGLdVxspwJSXlHRCxPLFvpdZKddPkSbBXdFrMBNrrWnDvSKdbrdZKnsvRdgzZbdpzMmCwpp" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/athos-souza-020a69343" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Athos%20Souza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </p>
 
