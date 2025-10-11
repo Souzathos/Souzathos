@@ -39,7 +39,7 @@ Estou sempre explorando novas tecnologias e buscando evoluir como desenvolvedor.
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Souzathos/Souzathos/blob/output/github-contribution-grid-snake.svg)
 
 ###
 🧠 **Habilidades em Programação**
