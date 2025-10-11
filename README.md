@@ -54,10 +54,11 @@ Estou sempre explorando novas tecnologias e buscando evoluir como desenvolvedor.
 
 ---
 
-[<img src="https://raw.githubusercontent.com/Souzathos/Souzathos/output/snake.svg" alt="Snake animation" />](https://github.com/Souzathos/Souzathos/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin?username=Souzathos&repo=Souzathos&theme=react)](https://github.com/Souzathos/Souzathos)
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Souzathos/Souzathos/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Souzathos/Souzathos/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Souzathos/Souzathos/output/github-contribution-grid-snake.svg">
+</picture>
 ###
 
 ---
