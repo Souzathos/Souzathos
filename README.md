@@ -39,7 +39,7 @@ Estou sempre explorando novas tecnologias e buscando evoluir como desenvolvedor.
 
 <br clear="both">
 
-![snake gif](https://github.com/Souzathos/Souzathos/blob/output/github-contribution-grid-snake.svg)
+
 
 ###
 🧠 **Habilidades em Programação**
@@ -51,6 +51,10 @@ Estou sempre explorando novas tecnologias e buscando evoluir como desenvolvedor.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="TailwindCSS" />
 </p>
+
+---
+
+![snake gif](https://github.com/Souzathos/Souzathos/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
