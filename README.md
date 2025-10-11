@@ -54,7 +54,12 @@ Estou sempre explorando novas tecnologias e buscando evoluir como desenvolvedor.
 
 ---
 
-![snake gif](https://github.com/Souzathos/Souzathos/blob/output/github-contribution-grid-snake.svg)
+<h2 align="center">🐍 Minhas Contribuições</h2>
+
+<p align="center">
+  <img src="https://github.com/Souzathos/Souzathos/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 
 ---
 
