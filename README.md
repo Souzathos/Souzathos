@@ -59,7 +59,7 @@ Estou sempre explorando novas tecnologias e buscando evoluir como desenvolvedor.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Souzathos/Souzathos/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Souzathos/Souzathos/output/github-contribution-grid-snake.svg">
 </picture>
-###
+
 
 ---
 
