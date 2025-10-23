@@ -14,8 +14,8 @@
 
 <p align="center">
   <a href="https://github.com/Souzathos" target="_blank" rel="noopener noreferrer">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souzathos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=12" alt="Estatísticas do GitHub de Athos" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souzathos&layout=compact&langs_count=16&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Linguagens de Athos" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souzathos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=12" alt="Estatísticas do GitHub de AthoA" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souzathos&layout=compact&langs_count=16&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Linguagens de AthoA" />
   </a>
 </p>
 
@@ -55,9 +55,9 @@ Estou sempre explorando novas tecnologias e buscando evoluir como desenvolvedor.
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PeduZx/PeduZx/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PeduZx/PeduZx/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PeduZx/PeduZx/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Souzathos/Souzathos/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Souzathos/Souzathos/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Souzathos/Souzathos/output/pacman-contribution-graph.svg">
 </picture>
 
 
