@@ -10,17 +10,16 @@
 
 ---
 
-<h2 align="center">📊 Minhas Estatísticas no GitHub</h2>
+## 📊 Minhas Estatísticas no GitHub
 
-<p align="center">
-  <a href="https://github.com/Souzathos" target="_blank" rel="noopener noreferrer">
-    <!-- GitHub Stats -->
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Souzathos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-  <!-- Top Langs -->
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Souzathos&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
-</p>
+<div align="center">
+
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=Souzathos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souzathos&layout=compact&langs_count=8&theme=tokyonight" />
+
+</div>
+
 
 ---
 
