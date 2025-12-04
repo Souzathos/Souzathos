@@ -13,9 +13,11 @@
 ## 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Souzathos/Souzathos/main/github-metrics.svg" />
-</p>
+
+<img height="180px" src="https://raw.githubusercontent.com/Souzathos/Souzathos/main/stats.png" />
+
+<img height="180px" src="https://raw.githubusercontent.com/Souzathos/Souzathos/main/top-langs.png" />
+
 </div>
 
 
