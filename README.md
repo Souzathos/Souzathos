@@ -14,9 +14,9 @@
 
 <div align="center">
 
-<img height="180px" src="https://raw.githubusercontent.com/Souzathos/Souzathos/main/stats.png" />
+<img height="180px" src="https://cdn.jsdelivr.net/gh/Souzathos/Souzathos/stats.png" />
 
-<img height="180px" src="https://raw.githubusercontent.com/Souzathos/Souzathos/main/top-langs.png" />
+<img height="180px" src="https://cdn.jsdelivr.net/gh/Souzathos/Souzathos/top-langs.png" />
 
 </div>
 
