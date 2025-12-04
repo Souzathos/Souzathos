@@ -14,9 +14,9 @@
 
 <div align="center">
 
-<img height="180px" src="https://cdn.jsdelivr.net/gh/Souzathos/Souzathos/stats.png" />
+<img height="180px" src="https://github-readme-stats-1qu8.vercel.app/api?username=Souzathos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
-<img height="180px" src="https://cdn.jsdelivr.net/gh/Souzathos/Souzathos/top-langs.png" />
+<img height="180px" src="https://github-readme-stats-1qu8.vercel.app/api/top-langs/?username=Souzathos&layout=compact&langs_count=8&theme=tokyonight" />
 
 </div>
 
