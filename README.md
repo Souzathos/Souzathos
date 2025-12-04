@@ -10,15 +10,14 @@
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
+<h2 align="center">📊 Minhas Estatísticas no GitHub</h2>
 
-<div align="center">
-
-<img height="180px" src="https://github-readme-stats-1qu8.vercel.app/api?username=Souzathos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-
-<img height="180px" src="https://github-readme-stats-1qu8.vercel.app/api/top-langs/?username=Souzathos&layout=compact&langs_count=8&theme=tokyonight" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/Souzathos" target="_blank" rel="noopener noreferrer">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souzathos&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="Estatísticas do GitHub de Souzathos" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souzathos&layout=compact&langs_count=16&theme=dark&hide_border=true&border_radius=10" alt="Top Linguagens de Souzathos" />
+  </a>
+</p>
 
 
 ---
