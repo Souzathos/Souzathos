@@ -8,16 +8,21 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+
       - uses: actions/checkout@v3
 
       - name: Clone GitHub Readme Stats
         run: |
           git clone https://github.com/anuraghazra/github-readme-stats.git stats_src
 
-      - name: Generate Stats Card
+      - name: Install dependencies
         run: |
           cd stats_src
           npm install
+
+      - name: Generate Stats Card
+        run: |
+          cd stats_src
           node api/index.js username=Souzathos show_icons=true theme=tokyonight > ../stats.png
 
       - name: Generate Top Languages Card
@@ -25,12 +30,11 @@ jobs:
           cd stats_src
           node api/top-langs.js username=Souzathos layout=compact theme=tokyonight > ../top-langs.png
 
-      - name: Commit results
+      - name: Commit images
         run: |
-          mv stats.png top-langs.png .
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add stats.png top-langs.png
-          git commit -m "Update generated stats" || echo "Nothing to commit"
+          git commit -m "Update stats images" || echo "No changes"
           git push
 
