@@ -1,4 +1,4 @@
-<h1 align="center">🌌 Olá! Eu sou o <strong>Athos Felipe Nascimento de Souza</strong></h1>
+<h1 align="center">🌌 Olá! Me chamo <strong>Athos Souza</strong></h1>
 
 <p align="center">
   <img loading="lazy" width="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF de programador animado" />
