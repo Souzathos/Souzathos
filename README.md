@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🧑‍💻 Desenvolvedor <strong>Full Stack</strong> em formação • 17 anos • Apaixonado por tecnologia e inovação
+  🧑‍💻 Desenvolvedor <strong>de Software</strong>  • 17 anos • Apaixonado por tecnologia e inovação
 </p>
 
 ---
