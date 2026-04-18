@@ -44,7 +44,7 @@ Estou sempre explorando novas tecnologias e buscando evoluir como desenvolvedor.
 
 ###
 🧠 **Habilidades em Programação**
-<p align="center" display="flex" flex-direction="column">
+<p align="center" display="flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" height="55" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" alt="Java" />
