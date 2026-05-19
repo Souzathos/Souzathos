@@ -65,7 +65,8 @@ const athos = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" title="MySQL" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" title="Java" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" title="Docker" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" title="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" title="Git" />&nbsp;&nbsp;
+<img src="https://avatars.githubusercontent.com/u/20165699?s=48&v=4" width="48" title="TypeORM" />
 
 <br/>
 
@@ -75,6 +76,7 @@ const athos = {
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![TypeORM](https://img.shields.io/badge/-TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white)
 
 </div>
 
