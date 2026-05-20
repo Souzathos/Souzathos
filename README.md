@@ -86,8 +86,8 @@ const athos = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souzathos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&title_color=58A6FF&icon_color=58A6FF" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souzathos&layout=compact&langs_count=8&theme=github_dark&hide_border=true&border_radius=10&title_color=58A6FF" />
+<img height="180em" src="https://github-readme-stats-green-six-97.vercel.app/api?username=Souzathos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&title_color=58A6FF&icon_color=58A6FF" />
+<img height="180em" src="https://github-readme-stats-green-six-97.vercel.app/api/top-langs/?username=Souzathos&layout=compact&langs_count=8&theme=github_dark&hide_border=true&border_radius=10&title_color=58A6FF" />
 
 <br/>
 
