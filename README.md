@@ -25,7 +25,7 @@ Currently studying **Technical Informatics (Integrated High School)** and **Syst
 
 ```ts
 const athos = {
-  age: 17,
+  age: 18,
   location: "São Leopoldo, RS — Brazil",
   focus: ["Full Stack Development", "Clean Architecture", "Real-World Projects"],
   languages: ["Portuguese (native)", "English (fluent)"],
